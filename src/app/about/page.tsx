@@ -40,8 +40,9 @@ export default function About() {
             )}
 
             <p className="text-lg text-black max-w-2xl text-center">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, aliquam molestiae aspernatur quis, eligendi saepe autem corporis doloribus harum, 
-                beatae consectetur officia. Nobis, quia fugit.
+              <i>Hello! My name is Hurmat Muhammad Ayub, and I am from Karachi, Pakistan. I am
+              very passionate about web development, and I am always driven by
+              curiosity and the desire to learn.</i>
             </p>
         </div>
     );
